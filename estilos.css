@@ -1,0 +1,14 @@
+h1 {
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h1 {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.agrupar{
+    width: 960px;
+    background: cornsilk;
+    margin: auto;
+}
